@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Award des meilleurs commentaires après 1 mois"
+title: "1 mois de cayak actu: Vos meilleurs commentaires"
 modified: 2015-08-04
 tags: [cayak actu, award]
 comments: true
-image:
-  feature: facebook/11221416_747251565402740_7581465251504372114_n.jpg
 ---
 
 Cayak Actu fête ses 1 mois et remercie tous ses lecteurs, admirateurs comme détracteurs, nous avons pris beaucoup de plaisir à vous lire.
@@ -13,4 +11,4 @@ Cayak Actu fête ses 1 mois et remercie tous ses lecteurs, admirateurs comme dé
 {% capture images %}
 images/facebook/11221416_747251565402740_7581465251504372114_n.jpg
 {% endcapture %}
-{% include gallery images=images cols=3 %}
+{% include gallery images=images cols=1 %}
