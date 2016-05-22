@@ -10,7 +10,9 @@ share: true
 
 <div class="home">
   <p >Tous les goodies Cayak Actu juste pour toi, petit chanceux !</p>
-<br/>
+
+<div style="text-align:center;"><a href="#" class="btn btn-info snipcart-checkout">Voir mon panier</a></div>
+
 <br/>
 
     {% for product in site.data.products %}
@@ -18,13 +20,15 @@ share: true
       <div style="text-align:center;margin-bottom:60px;">
         <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
         <br/>
-        {{ product.name }}
+        <h2>{{ product.name }}</h2>
+        {{ product.description }}
         <br/>
-        <button class="snipcart-add-item"
+        <button class="btn btn-success snipcart-add-item"
           data-item-name="{{product.name}}"
+          data-item-description="{{product.description}}"
           data-item-id="{{product.sku}}"
           data-item-image="{{product.image}}"
-          data-item-url="{{site.baseurl}}"
+          data-item-url="{{site.shopurl}}"
           data-item-price="{{product.price}}">
           Acheter pour {{product.price}} €
         </button>
