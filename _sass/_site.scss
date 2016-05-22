@@ -1,15 +1,27 @@
 // Selection
 // --------------------------------------------------
-::-moz-selection { 
-	background-color: lighten($base-color, 65%); 
-	color: $base-color; 
-	text-shadow: none; 
-}  	
-::selection { 
-	background-color: lighten($base-color, 65%); 
-	color: $base-color; 
-	text-shadow: none; 
+::-moz-selection {
+	background-color: lighten($base-color, 65%);
+	color: $base-color;
+	text-shadow: none;
 }
+::selection {
+	background-color: lighten($base-color, 65%);
+	color: $base-color;
+	text-shadow: none;
+}
+
+// Branding
+// --------------------------------------------------
+.brand-cayak {
+	color:#{$black} !important;
+	font-weight: 900;
+}
+.brand-actu {
+	color:#{$highlight-color} !important;
+	font-weight: 700;
+}
+
 
 // Global Classes
 // --------------------------------------------------
