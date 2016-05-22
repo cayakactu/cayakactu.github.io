@@ -2,7 +2,7 @@
 layout: post
 title: "Mondiaux de milan: Vincent LECRUBIER obtient son ticket pour les mondiaux de Milan Rang B place 24"
 modified: 2015-07-04
-tags: [equipe de france, course en ligne]
+tags: [people, equipe de france, course en ligne]
 comments: true
 image:
   feature: facebook/11403166_732378346890062_6200404299658580826_n.jpg
