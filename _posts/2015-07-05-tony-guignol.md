@@ -13,7 +13,7 @@ Après la retraite sportive de Tony Estanguet, nous avons appris cette semaine l
 ‪#‎tousdesguignols‬
 
 {% capture images %}
-images/facebook/11200913_732797486848148_8290278612609015054_n.jpg
-images/facebook/11219592_732797450181485_8917163943987389320_n.jpg
+/images/facebook/11200913_732797486848148_8290278612609015054_n.jpg
+/images/facebook/11219592_732797450181485_8917163943987389320_n.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}

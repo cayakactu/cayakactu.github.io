@@ -44,7 +44,7 @@ Vous le voyez chers lecteurs, malgré toutes les réticences du staff tricolore 
 Pour les ignares [1] C'est surtout dans le domaine sportif que le prince Tamim se distingue, comme président du Comité national olympique du Qatar depuis 2000 et membre du Comité international olympique (CIO) depuis 2002. Il préside le comité d'organisation des XVes Jeux asiatiques de Doha en 2006. Il est devenu l'unique actionnaire du Paris Saint-Germain Football Club, depuis le rachat des 30 % de parts restantes à Colony Capital le 6 mars 2012 à travers le Qatar Investment Authority qu'il dirige. Il est un fervent supporter du grand club de football Manchester United.
 
 {% capture images %}
-images/facebook/11147030_741892229272007_5028153077485618458_o.jpg
-images/facebook/11227574_741892255938671_1865367340145985730_n.jpg
+/images/facebook/11147030_741892229272007_5028153077485618458_o.jpg
+/images/facebook/11227574_741892255938671_1865367340145985730_n.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}

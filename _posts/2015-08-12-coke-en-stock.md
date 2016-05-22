@@ -22,8 +22,8 @@ Autres figures de l’équipe Magyar prises dans l’avalanche : Tamara Csipes e
 Disparu sans laisser de traces, le président de la commission disciplinaire de la fédération hongroise de Cayak aurait été démis de ses fonctions et remplacé à la courte paille...
 
 {% capture images %}
-images/facebook/11822512_751614478299782_1808199032388366606_n.jpg
-images/facebook/11822519_751614501633113_4206861513516500844_n.jpg
-images/facebook/11891222_751614491633114_4610211876593529012_n.jpg
+/images/facebook/11822512_751614478299782_1808199032388366606_n.jpg
+/images/facebook/11822519_751614501633113_4206861513516500844_n.jpg
+/images/facebook/11891222_751614491633114_4610211876593529012_n.jpg
 {% endcapture %}
 {% include gallery images=images cols=3 %}

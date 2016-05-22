@@ -7,6 +7,6 @@ comments: true
 ---
 
 {% capture images %}
-images/facebook/11873430_750331361761427_7899899031061456183_n.jpg
+/images/facebook/11873430_750331361761427_7899899031061456183_n.jpg
 {% endcapture %}
 {% include gallery images=images cols=1 %}
