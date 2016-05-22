@@ -2,7 +2,7 @@
 layout: post
 title: "Jamelot forfait pour les mondiaux de CEL de Milan?"
 modified: 2015-07-03
-tags: [equipe de france, course en ligne]
+tags: [people, equipe de france, course en ligne]
 comments: true
 image:
   feature: facebook/11713827_732148356913061_2733961329281968370_o.jpg
