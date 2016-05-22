@@ -7,3 +7,7 @@ bundle exec jekyll build --watch
 
 bundle exec jekyll serve
 ```
+
+Commentaires avec disqus
+
+E-Commerce avec snipcart
