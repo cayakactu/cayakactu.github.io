@@ -11,13 +11,14 @@ share: true
 <div class="home">
   <h1 class="page-heading">Tous les goodies Cayak Actu juste pour toi, petit chanceux !</h1>
 
-  <ul class="products-list">
+
     {% for product in site.data.products %}
-      <li>
+
+      <div style="text-align:center;margin-bottom:60px;">
         <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
-<br/>
+        <br/>
         {{ product.name }}
-<br/>
+        <br/>
         <button class="snipcart-add-item"
           data-item-name="{{product.name}}"
           data-item-id="{{product.sku}}"
@@ -26,7 +27,7 @@ share: true
           data-item-price="{{product.price}}">
           Acheter pour {{product.price}} €
         </button>
-      </li>
+      </div>
     {% endfor %}
   </ul>
 </div>
