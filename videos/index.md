@@ -8,21 +8,24 @@ share: true
 comment: true
 ---
 
+En exlusivité sur cayakactu.fr, pour le plaisir de vos yeux, notre hall of fame des meilleures vidéos du net !
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
+## \#1 - Loic Léonard : *Canoe Sport*
 
-Cyrille esprit bleu :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ykz_tp9RiJA" frameborder="0"> </iframe>
 
- http://tugashow.com/video/x2qsd9j
+## \#2 - Maxime Beaumont : *Martine Vite*
 
-Troel esprit bleu :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/haOS5eB6Ma4" frameborder="0"> </iframe>
 
- http://www.dailymotion.com/video/x2u0egg
+## \#3 - Cyrille Carré : *Esprit Bleu*
 
-Jamel esprit bleu :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5TMtxuSE0aY" frameborder="0"> </iframe>
 
-http://www.dailymotion.com/video/x2u04wp
+## \#4 - Léa Jamelot : *Esprit Bleu*
 
-Beaumont Martine Vite :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z36WEiPyjwo" frameborder="0"> </iframe>
 
-http://m.20minutes.fr/politique/799804-20111004-yohann-diniz-j-toujours-gauche
+## \#5 - Sarah Troël : *Esprit Bleu*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ybWbSTZwft4" frameborder="0"> </iframe>
