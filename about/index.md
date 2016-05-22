@@ -7,4 +7,4 @@ comments: false
 modified: 2016-02-01
 ---
 
-Mystère...
+Les auteurs s'attachent, dans les articles faux (jusqu'à preuve du contraire), décalés et parodiques de Cayak Actu, à conserver le ton de la fine plaisanterie et de l'ironie gauloise.

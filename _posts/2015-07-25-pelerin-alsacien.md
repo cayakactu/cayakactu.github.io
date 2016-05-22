@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insolite : Ce pèlerin alsacien qui prie pour le K4 U23"
-modified: 2015-07-01
+modified: 2015-07-25
 tags: [people, course en ligne, equipe de france, jeux olympiques]
 comments: true
 ---
