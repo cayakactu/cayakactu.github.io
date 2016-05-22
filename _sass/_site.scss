@@ -15,11 +15,13 @@
 // --------------------------------------------------
 .brand-cayak {
 	color:#{$black} !important;
-	font-weight: 900;
+	font-weight: 900 !important;
+	font-size: 150% !important;
 }
 .brand-actu {
 	color:#{$highlight-color} !important;
-	font-weight: 700;
+	font-weight: 700 !important;
+	font-size: 150% !important;
 }
 
 .entry-image-index {
