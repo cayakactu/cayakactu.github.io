@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CDF Slalom Masters: ces vieux qui se moquent bien de la canicule"
-modified: 2015-07-06
+modified: 2015-07-10
 tags: [slalom, competition]
 comments: true
 image:
