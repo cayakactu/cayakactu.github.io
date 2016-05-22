@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Adopteunentraineur.com : la nouvelle appli qui fait un malheur chez les meufs en jupe néoprène"
-modified: 2015-07-06
-tags: [course en ligne, politique, competition]
+modified: 2015-07-08
+tags: [lien]
 comments: true
 image:
   feature: facebook/11667541_734859513308612_3543688814901498972_n.jpg
