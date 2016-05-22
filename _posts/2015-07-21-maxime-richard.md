@@ -2,7 +2,7 @@
 layout: post
 title: "Maxime Richard revient sur les championnats de France"
 modified: 2015-07-21
-tags: [course en ligne]
+tags: [course en ligne, people, competition]
 comments: true
 image:
   feature: facebook/11011273_740551329406097_9150344700626984081_n.jpg
