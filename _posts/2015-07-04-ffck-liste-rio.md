@@ -2,7 +2,7 @@
 layout: post
 title: "REPRESENTING FRANCE! La FFCK annonce la liste des sélectionnés pour Rio 2016"
 modified: 2015-07-04
-tags: [equipe de france, ffck, politique, jeaux olympiques]
+tags: [equipe de france, ffck, politique, jeux olympiques]
 comments: true
 image:
   feature: facebook/11702861_732574506870446_3854765685800102290_n.jpg
