@@ -23,7 +23,7 @@ Sollicitez nous et choisissez dans notre catalogue l'athlète qu'il vous faut. N
 Financièrement intéressant, ne déboursez pas un euro ! Reversez 30% de la subvention au résultat à l'athlète et 20% à Cayak Interim. Et avec l’offre premium, les résultats sont garantis : nous vous offrons la subvention si la victoire vous échappe.
 
 {% capture images %}
-images/facebook/11745687_740366482757915_6205822658084429573_n.png
-images/facebook/11780004_740364809424749_4766963352866801918_o.jpg
+/images/facebook/11745687_740366482757915_6205822658084429573_n.png
+/images/facebook/11780004_740364809424749_4766963352866801918_o.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}

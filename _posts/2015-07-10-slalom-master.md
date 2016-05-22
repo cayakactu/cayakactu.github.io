@@ -13,7 +13,7 @@ L'information n'aura échappée à personne tant elle est relayée par tous nos 
 L'occasion des CDF slalom Masters était trop belle, nous n'avons pas résisté à l'idée de faire un petit focus sur ces intrépides petits vieux qui se jouent du mercure et batifolent dans les eaux tumultueuses de la Durance.. Les images qui nous sont parvenues montrent des visages déformés par la chaleur, mais aussi beaucoup de bonne humeur! Bien loins des reportages sordides sur les maisons de repos..
 
 {% capture images %}
-images/facebook/11667398_735776486550248_7136383279189514893_n.jpg
-images/facebook/11667449_735776499883580_521020485587925550_n.jpg
+/images/facebook/11667398_735776486550248_7136383279189514893_n.jpg
+/images/facebook/11667449_735776499883580_521020485587925550_n.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}

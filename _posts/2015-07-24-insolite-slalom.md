@@ -21,7 +21,7 @@ Son message:
 La Mort qui pointerait déjà le bout de sa faux pour Lucien, celui-ci étant atteint d'une maladie mortelle : la vieillesse. Une maladie qui, tout comme le manque d'humour, pourrait entraîner de sévères complications avec l'âge...
 
 {% capture images %}
-images/facebook/11722266_742226889238541_4635102847633075917_o.jpg
-images/facebook/11796237_742226872571876_6899532706178993889_n.png
+/images/facebook/11722266_742226889238541_4635102847633075917_o.jpg
+/images/facebook/11796237_742226872571876_6899532706178993889_n.png
 {% endcapture %}
 {% include gallery images=images cols=2 %}

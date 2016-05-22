@@ -24,7 +24,7 @@ Les voies du seigneur sont impénétrables. Amen.
 
 
 {% capture images %}
-images/facebook/11193390_742991152495448_1175124825691959174_n.jpg
-images/facebook/11755204_742991179162112_4366640184768566625_n.jpg
+/images/facebook/11193390_742991152495448_1175124825691959174_n.jpg
+/images/facebook/11755204_742991179162112_4366640184768566625_n.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
