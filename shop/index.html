@@ -8,15 +8,14 @@ share: true
 ---
 
 
-<div class="home">
-  <p >Tous les goodies Cayak Actu juste pour toi, petit chanceux !</p>
+
+  <p>Tous les goodies Cayak Actu juste pour toi, petit chanceux !</p>
 
 <div style="text-align:center;"><a href="#" class="btn btn-info snipcart-checkout">Voir mon panier</a></div>
 
 <br/>
 
     {% for product in site.data.products %}
-
       <div style="text-align:center;margin-bottom:60px;">
         <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
         <br/>
@@ -34,5 +33,3 @@ share: true
         </button>
       </div>
     {% endfor %}
-  </ul>
-</div>
