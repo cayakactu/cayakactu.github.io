@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing Cayak Interim International"
 modified: 2015-07-20
-tags: [course en ligne]
+tags: [concept, course en ligne]
 comments: true
 image:
   feature: facebook/11741006_740337966094100_5583831092591598878_o.png
