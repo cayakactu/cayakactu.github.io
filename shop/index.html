@@ -4,16 +4,12 @@ title: Shop
 description: "Tous les goodies Cayak Actu juste pour toi, petit chanceux !"
 image:
   feature: abstract-11.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
 ---
 
 
 <div class="home">
-  <h1 class="page-heading">Books</h1>
-
-<p>Tous les goodies Cayak Actu juste pour toi, petit chanceux !</p>
+  <h1 class="page-heading">Tous les goodies Cayak Actu juste pour toi, petit chanceux !</h1>
 
   <ul class="products-list">
     {% for product in site.data.products %}
@@ -28,7 +24,7 @@ share: true
           data-item-image="{{product.image}}"
           data-item-url="{{site.baseurl}}"
           data-item-price="{{product.price}}">
-          Acheter pour {{product.price}} $
+          Acheter pour {{product.price}} €
         </button>
       </li>
     {% endfor %}
