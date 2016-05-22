@@ -21,3 +21,9 @@
   slug: teeshirt-maxime-beaumont
   sku: TSMB
   image: http://www.cayakactu.fr/images/shop/teeshirt-maxime-beaumont.jpg
+
+- name: Tee shirt Sarah guyot
+  price: 29.99
+  slug: teeshirt-sarah-guyot
+  sku: TSSG
+  image: http://www.cayakactu.fr/images/shop/teeshirt-sarah-guyot.jpg
