@@ -2,7 +2,7 @@
 layout: post
 title: "L'interview choc du président du Syndicat"
 modified: 2015-09-28
-tags: [matos, marathon, people]
+tags: [politique, ffck, people]
 comments: true
 image:
   feature: facebook/12072770_775827022545194_3164475153139291924_n.jpg
