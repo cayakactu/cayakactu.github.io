@@ -2,7 +2,13 @@
   price: 29.99
   slug: casquette
   sku: CSQ
-  image: http://www.cayakactu.fr/images/shop/casquettes.jpg
+  image: http://www.cayakactu.fr/images/shop/casquettes.png
+
+- name: Tee shirt DTN
+  price: 29.99
+  slug: teeshirt-dtn
+  sku: TSDTN
+  image: http://www.cayakactu.fr/images/shop/teeshirt-dtn.jpg
 
 - name: Tee shirt Léa Jamelot
   price: 29.99
