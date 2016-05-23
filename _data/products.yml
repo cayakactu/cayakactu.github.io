@@ -4,6 +4,12 @@
   sku: CSQ
   image: http://www.cayakactu.fr/images/shop/casquettes.png
 
+- name: Tatoo Cayak Actu
+  price: 9.99
+  slug: tatoo-cayak-actu
+  sku: TTCA
+  image: http://www.cayakactu.fr/images/shop/tatoo-cayak-actu.jpg
+
 - name: Tee shirt DTN
   price: 29.99
   slug: teeshirt-dtn
