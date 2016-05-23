@@ -5,6 +5,7 @@
   image: http://www.cayakactu.fr/images/shop/casquettes.png
 
 - name: Tatoo Cayak Actu
+  description: "Avec notre partenaire tatouagetemporaire.com"
   price: 9.99
   slug: tatoo-cayak-actu
   sku: TTCA
@@ -33,6 +34,13 @@
   slug: teeshirt-sarah-troel
   sku: TSST
   image: http://www.cayakactu.fr/images/shop/teeshirt-sarah-troel.jpg
+
+
+- name: Tee shirt Adrien Bart
+  price: 29.99
+  slug: teeshirt-adrien-bart
+  sku: TSAB
+  image: http://www.cayakactu.fr/images/shop/teeshirt-adrien-bart.jpg
 
 - name: Tee shirt Maxime Beaumont
   price: 29.99
