@@ -12,7 +12,7 @@ Version 2.0 des ventes de crêpes ou de gâteaux un samedi matin sur la place du
 Pas simple en effet pour un sportif méconnu du grand public de financer sa saison en faisant appel aux dons des internautes. Surtout quand son rêve d’olympisme figure aux côtés de projets altruistes visant à loger des sans abris, à lutter contre la faim dans le monde ou à financer des reconstitutions clitoridiennes en Afrique subsaharienne. Le problème n’est pas uniquement lié à la portée individualiste du projet. Parfois certains appels individuels vont droit au coeur des internautes, à l’instar de celui visant à financer la greffe de coeur de la petite Nadia, Syrienne de 8 ans qui a perdu ses parents en traversant la méditerrannée dans un zodiac percé.. Pour faire face à cette concurrence déloyale, on a donc créé des plateformes qui s’adressent exclusivement aux sportifs et à leurs fans.
 
 
-### Crowd-foutagedegueule : fais financer tes vacances à Rio par les internautes!
+### Crowd-foutagedegueule : Fais financer tes vacances à Rio par les internautes!
 
 Cahier de doléances du champion moderne accablé de dépenses, le crowdfunding a parfois des allures de foutage de gueule.. Attention aux projets mal ficelés qui risquent d’envoyer le mauvais signal aux mécènes potentiels! Cayak Actu vous propose son guide du crowdfunding gagnant et revient pour vous sur les écueils à éviter si vous voulez ramasser un peu de pèze dans cette ruée vers l’or olympique:
 

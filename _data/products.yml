@@ -10,6 +10,12 @@
   sku: TSDTN
   image: http://www.cayakactu.fr/images/shop/teeshirt-dtn.jpg
 
+- name: Tee shirt K4 dames
+  price: 29.99
+  slug: teeshirt-k4d
+  sku: TSK4D
+  image: http://www.cayakactu.fr/images/shop/teeshirt-k4d.jpg
+
 - name: Tee shirt Léa Jamelot
   price: 29.99
   slug: teeshirt-lea-jamelot
