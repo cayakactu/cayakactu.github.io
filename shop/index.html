@@ -19,7 +19,6 @@ share: true
     {% for product in site.data.products %}
       <div style="text-align:center;margin-bottom:60px;">
         <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
-        <br/>
         <h2>{{ product.name }}</h2>
         <p>{{ product.description }}</p>
         <p><button class="btn btn-success snipcart-add-item"
