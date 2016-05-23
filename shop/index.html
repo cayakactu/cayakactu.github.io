@@ -21,9 +21,8 @@ share: true
         <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
         <br/>
         <h2>{{ product.name }}</h2>
-        {{ product.description }}
-        <br/>
-        <button class="btn btn-success snipcart-add-item"
+        <p>{{ product.description }}</p>
+        <p><button class="btn btn-success snipcart-add-item"
           data-item-name="{{product.name}}"
           data-item-description="{{product.description}}"
           data-item-id="{{product.sku}}"
@@ -31,6 +30,6 @@ share: true
           data-item-url="{{site.shopurl}}"
           data-item-price="{{product.price}}">
           Acheter pour {{product.price}} €
-        </button>
+        </button></p>
       </div>
     {% endfor %}

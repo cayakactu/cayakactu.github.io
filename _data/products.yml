@@ -35,7 +35,6 @@
   sku: TSST
   image: http://www.cayakactu.fr/images/shop/teeshirt-sarah-troel.jpg
 
-
 - name: Tee shirt Adrien Bart
   price: 29.99
   slug: teeshirt-adrien-bart
