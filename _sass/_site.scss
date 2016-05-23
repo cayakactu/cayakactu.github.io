@@ -16,12 +16,31 @@
 .brand-cayak {
 	color:#{$black} !important;
 	font-weight: 900 !important;
-	font-size: 150% !important;
+	display: block;
+	margin: 0px;
+	@include font-rem(64);
+	@media #{$medium} {
+		@include font-rem(96);
+	}
+	@media #{$large} {
+		@include font-rem(120);
+	}
 }
 .brand-actu {
 	color:#{$highlight-color} !important;
 	font-weight: 700 !important;
-	font-size: 150% !important;
+	margin: 0px;
+	transform: translate(45px,-20px);
+	display: block;
+	@include font-rem(32);
+	@media #{$medium} {
+		@include font-rem(48);
+		transform: translate(70px,-30px);
+	}
+	@media #{$large} {
+		@include font-rem(60);
+		transform: translate(85px,-34px);
+	}
 }
 
 
