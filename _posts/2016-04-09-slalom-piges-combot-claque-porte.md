@@ -4,6 +4,9 @@ title: "Piges olympiques Slalom : Combot claque la porte"
 modified: 2016-04-09
 tags: [slalom, jeux olympiques, equipe de france, people]
 comments: true
+image:
+  feature:  facebook/12998739_875726212555274_2937472163326031356_n.jpg
+---
 
 Inquiétude après la mise en ligne par la FFCK de la finale des piges olympiques K1H.
 
@@ -16,12 +19,8 @@ Contactée par la rédaction, Kim Jong Polite, co-fondatrice de la société mon
 Alors erreur de parallaxe ou erreur de jugement? conspiration illuminati? le doute est permis
 
 {% capture images %}
-/images/facebook/12806040_853400951454467_6974947971019955448_n.jpg
-/images/facebook/10246306_853401164787779_2568797857227055063_n.jpg
-/images/facebook/10955334_853401111454451_5443155540650841057_n.jpg
-/images/facebook/12705651_853401081454454_4288412313757980440_n.jpg
-/images/facebook/12801425_853400961454466_3304320298522492986_n.jpg
-/images/facebook/12814560_853401018121127_4085446782787879903_n.jpg
-/images/facebook/12821381_853401031454459_5095386519681525822_n.jpg
+/images/facebook/13000299_875726289221933_7249803467325382711_n.jpg
+/images/facebook/12998739_875726212555274_2937472163326031356_n.jpg
+/images/facebook/12938197_875726229221939_171569991231142748_n.jpg
 {% endcapture %}
-{% include gallery images=images cols=3 %}
+{% include gallery images=images cols=1 %}
