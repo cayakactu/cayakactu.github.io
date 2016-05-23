@@ -2,7 +2,7 @@
 layout: post
 title: "Impose ton style"
 modified: 2015-09-05
-tags: [cayack actu, goodies]
+tags: [cayak actu, goodies]
 comments: true
 ---
 
