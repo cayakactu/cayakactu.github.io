@@ -52,3 +52,11 @@
   slug: teeshirt-sarah-guyot
   sku: TSSG
   image: http://www.cayakactu.fr/images/shop/teeshirt-sarah-guyot.jpg
+
+
+- name: Porte clés Cayak Actu
+  description: "Flottaison assurée pour ce porte clés fourre-tout"
+  price: 14.99
+  slug: porte-cles-ca
+  sku: PCCA
+  image: http://www.cayakactu.fr/images/shop/porte-cles-ca.jpg
