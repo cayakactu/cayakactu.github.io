@@ -42,7 +42,8 @@
         {% if page.share != false %}{% include social-share.html %}{% endif %}
       </footer>
     </div><!-- /.entry-content -->
-    {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+    {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section>{% endif %}
+    {% if page.comments != false %}<section id="fb_thread"><div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" width="100%"></div></section>{% endif %}
   </article>
 </div><!-- /#main -->
 
