@@ -22,7 +22,7 @@ Nous recherchons un(e) chargé(e) de reportages et d’enquêtes pendant 3 mois 
 
 **Profil** :  Créatif(ve) et de nature curieuse, vous maîtrisez parfaitement l’orthographe et disposez d’une solide connaissance du monde du Cayak. Vous vous débrouillez avec un appareil photo et une caméra vidéo (surtout avec Photoshop et les logiciels de montage), faites preuve d’ouverture d’esprit et de beaucoup d’humour. Vous ne rechignez pas à effectuer des taches ingrates (photocopies, cafés) car vous savez que ce stage est une opportunité unique dans votre carrière insignifiante. Poloïstes s’abstenir.
 
-**Missions** : Couvrir quotidiennement l’actualité dans le monde du cayak.
+**Missions** : Couverture quotidienne de l’actualité dans le monde du cayak, organisation de grands évènements d'ampleur...
 
 **Contact** : Remplir le formulaire ci-dessous
 
