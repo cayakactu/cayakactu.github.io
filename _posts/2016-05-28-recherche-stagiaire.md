@@ -17,11 +17,11 @@ comments: true
 
 Nous recherchons un(e) chargé(e) de reportages et d'enquêtes pendant 3 mois du 1 juin au 1 Septembre.
 
-**Expérience** : préférable mais une bonne motivation fera la différence (journalisme, communication)
+**Expérience** : Préférable mais une bonne motivation fera la différence (journalisme, communication)
 
-**Qualités** : curiosité, créativité, rigueur, orthographe parfaite, dynamique. connaissance du monde du kayak impératif. Vous maitrisez parfaitement la photo (surtout Photoshop), la vidéo et les logicielles de montage. Vous faites preuve d'ouverture d'esprit et d'un certain sens de l'humour. Vous ne rechignez pas à effectuer des taches ingrates (photocopies, cafés) car vous savez que ce stage est une opportunité unique dans votre carrière insignifiante.
+**Qualités** : Curiosité, créativité, rigueur, orthographe parfaite, dynamique. connaissance du monde du kayak impératif. Vous maitrisez parfaitement la photo (surtout Photoshop), la vidéo et les logicielles de montage. Vous faites preuve d'ouverture d'esprit et d'un certain sens de l'humour. Vous ne rechignez pas à effectuer des taches ingrates (photocopies, cafés) car vous savez que ce stage est une opportunité unique dans votre carrière insignifiante.
 
-**Missions** : - Couvrir quotidiennement ce qui fait l'actualité dans le monde du kayak. Vous serez chargé(e) de reportages et d'enquêtes. Poloïste s'abstenir.
+**Missions** : Couvrir quotidiennement ce qui fait l'actualité dans le monde du kayak. Vous serez chargé(e) de reportages et d'enquêtes. Poloïste s'abstenir.
 
 **Contactez** : Remplir le formulaire ci dessous:
 
