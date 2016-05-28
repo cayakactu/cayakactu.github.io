@@ -49,7 +49,7 @@
       </footer>
     </div><!-- /.entry-content -->
     {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section>{% endif %}
-    {% if page.comments != false %}<section id="fb_thread"><div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" width="100%"></div></section>{% endif %}
+    {% if page.comments != false %}<section id="fb_thread"><div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="10" data-width="100%" ></div></section>{% endif %}
     {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
   </article>
 </div><!-- /#main -->
