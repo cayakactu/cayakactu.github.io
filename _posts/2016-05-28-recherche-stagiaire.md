@@ -18,7 +18,7 @@ comments: true
 
 Nous recherchons un(e) chargé(e) de reportages et d’enquêtes pendant 3 mois du 1 juin au 1 septembre.
 
-**Expérience** : Expérience souhaitée (journalisme, communication), mais une bonne motivation fera la différence
+**Expérience** : Expérience souhaitée en journalisme et/ou communication, mais une bonne motivation fera la différence
 
 **Profil** :  Créatif(ve) et de nature curieuse, vous maîtrisez parfaitement l’orthographe et disposez d’une solide connaissance du monde du Cayak. Vous vous débrouillez avec un appareil photo et une caméra vidéo (surtout avec Photoshop et les logiciels de montage), faites preuve d’ouverture d’esprit et de beaucoup d’humour. Vous ne rechignez pas à effectuer des taches ingrates (photocopies, cafés) car vous savez que ce stage est une opportunité unique dans votre carrière insignifiante. Poloïstes s’abstenir.
 
