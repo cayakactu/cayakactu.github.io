@@ -28,7 +28,7 @@ Décidément, ça doit vraiment pas être facile de l'écrire ce mode de sélect
 
 > Ca reste entre nous hein, mais lors de la rédaction du mode de sélection slalom nous avons fait une bourde dans la traduction entre 12 et 14m3.. ça a foutu un bordel pas possible.. Alors pour éviter ce genre de désagréments en CEL, on a envoyé le document final pour relecture à G. Montagné!
 
-[^1] "les coquines de l'île de beauté" est le premier film porno français sous-titré pour les sourds et malentendants. Réalisé par Alexandre Roy et porté à l'écran par la toute jeune Christina Jolie—éblouissante, et une Teresa Sweet criante de vérité, le film est une invitation au voyage. On redécouvre la chaleur et la beauté des paysages corses, les plages de Palombaggia, le fromage des montagnes, et la musique mystérieuse d’I Muvrini..
+[^1]: "les coquines de l'île de beauté" est le premier film porno français sous-titré pour les sourds et malentendants. Réalisé par Alexandre Roy et porté à l'écran par la toute jeune Christina Jolie—éblouissante, et une Teresa Sweet criante de vérité, le film est une invitation au voyage. On redécouvre la chaleur et la beauté des paysages corses, les plages de Palombaggia, le fromage des montagnes, et la musique mystérieuse d’I Muvrini..
 
 
 {% capture images %}
