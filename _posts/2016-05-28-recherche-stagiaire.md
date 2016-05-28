@@ -37,6 +37,6 @@ Nous recherchons un(e) chargé(e) de reportages et d’enquêtes pendant 3 mois 
 <br/>
     <input type="hidden" name="_next" value="//www.cayakactu.fr/merci-candidature" />
     <input type="text" name="_gotcha" style="display:none" />
-    <input class="btn btn-danger" type="submit" value="Envoyer ma candidature">
+    <input style="width:100%;" class="btn btn-danger" type="submit" value="Envoyer ma candidature">
 </form>
 </div>
