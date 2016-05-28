@@ -3,7 +3,7 @@ layout: post
 title: "Cayak Actu recherche stagiaire"
 description: "Sérieux: Cayak Actu est à la recherche d'un stagiaire pour cet été !"
 modified: 2016-05-28
-tags: [cayak actu, media]
+tags: [jobs, cayak actu, media]
 comments: true
 ---
 
@@ -37,6 +37,6 @@ Nous recherchons un(e) chargé(e) de reportages et d'enquêtes pendant 3 mois du
 <br/>
     <input type="hidden" name="_next" value="//www.cayakactu.fr/merci-candidature" />
     <input type="text" name="_gotcha" style="display:none" />
-    <input class="btn btn-success" type="submit" value="Envoyer ma candidature">
+    <input class="btn btn-danger" type="submit" value="Envoyer ma candidature">
 </form>
 </div>
