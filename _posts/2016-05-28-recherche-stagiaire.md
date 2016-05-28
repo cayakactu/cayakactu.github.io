@@ -14,17 +14,17 @@ comments: true
 {% include gallery images=images cols=1 %}
 
 
-# WE WANT YOU !
+## Libère le reporter qui est en toi !
 
-Nous recherchons un(e) chargé(e) de reportages et d'enquêtes pendant 3 mois du 1 juin au 1 Septembre.
+Nous recherchons un(e) chargé(e) de reportages et d’enquêtes pendant 3 mois du 1 juin au 1 septembre.
 
-**Expérience** : Préférable mais une bonne motivation fera la différence (journalisme, communication)
+**Expérience** : Expérience souhaitée (journalisme, communication), mais une bonne motivation fera la différence
 
-**Qualités** : Curiosité, créativité, rigueur, orthographe parfaite, dynamique. connaissance du monde du kayak impératif. Vous maitrisez parfaitement la photo (surtout Photoshop), la vidéo et les logicielles de montage. Vous faites preuve d'ouverture d'esprit et d'un certain sens de l'humour. Vous ne rechignez pas à effectuer des taches ingrates (photocopies, cafés) car vous savez que ce stage est une opportunité unique dans votre carrière insignifiante.
+**Profil** :  Créatif(ve) et de nature curieuse, vous maîtrisez parfaitement l’orthographe et disposez d’une solide connaissance du monde du Cayak. Vous vous débrouillez avec un appareil photo et une caméra vidéo (surtout avec Photoshop et les logiciels de montage), faites preuve d’ouverture d’esprit et de beaucoup d’humour. Vous ne rechignez pas à effectuer des taches ingrates (photocopies, cafés) car vous savez que ce stage est une opportunité unique dans votre carrière insignifiante. Poloïstes s’abstenir.
 
-**Missions** : Couvrir quotidiennement ce qui fait l'actualité dans le monde du kayak. Vous serez chargé(e) de reportages et d'enquêtes. Poloïste s'abstenir.
+**Missions** : Couvrir quotidiennement l’actualité dans le monde du cayak.
 
-**Contactez** : Remplir le formulaire ci dessous:
+**Contacte** : Remplir le formulaire ci-dessous
 
 <div markdown="0">
 <form action="https://formspree.io/Cayakactualite@gmail.com"
