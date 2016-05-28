@@ -3,7 +3,7 @@ layout: page
 title: Best of Vidéos
 description: "Le meilleur du net en vidéo"
 image:
-  feature: abstract-11.jpg
+  feature: lauriers-01.jpg
 share: true
 comment: true
 ---
