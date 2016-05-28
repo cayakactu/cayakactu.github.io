@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cayak Actu recherche stagiaire"
+description: "Sérieux: Cayak Actu est à la recherche d'un stagiaire pour cet été !"
 modified: 2016-05-28
 tags: [cayak actu, media]
 comments: true
