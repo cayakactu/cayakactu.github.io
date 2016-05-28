@@ -24,7 +24,7 @@ Nous recherchons un(e) chargé(e) de reportages et d’enquêtes pendant 3 mois 
 
 **Missions** : Couvrir quotidiennement l’actualité dans le monde du cayak.
 
-**Contacte** : Remplir le formulaire ci-dessous
+**Contact** : Remplir le formulaire ci-dessous
 
 <div markdown="0">
 <form action="https://formspree.io/Cayakactualite@gmail.com"
