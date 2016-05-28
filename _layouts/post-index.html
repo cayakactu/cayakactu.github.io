@@ -9,35 +9,35 @@
 
 <body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
 
-{% include browser-upgrade.html %}
-{% include navigation.html %}
+  {% include browser-upgrade.html %}
+  {% include navigation.html %}
 
-<div class="entry-header">
-  {% if page.image.credit %}<div class="image-credit">Source de l'image : <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
-  {% if page.image.feature %}
-    <div class="entry-image">
-      <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
-    </div><!-- /.entry-image -->
-  {% endif %}
-  <div class="header-title">
-    <div class="header-title-wrap brand">
-      <h1><a href="/" class="brand-cayak">Cayak</a><a href="/" class="brand-actu">Actu</a></h1>
-      <h2>{{ page.title }}</h2>
-    </div><!-- /.header-title-wrap -->
-  </div><!-- /.header-title -->
-</div><!-- /.entry-header -->
+  <div class="entry-header">
+    {% if page.image.credit %}<div class="image-credit">Source de l'image : <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
+    {% if page.image.feature %}
+      <div class="entry-image">
+        <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
+      </div><!-- /.entry-image -->
+    {% endif %}
+    <div class="header-title">
+      <div class="header-title-wrap brand">
+        <h1><a href="/" class="brand-cayak">Cayak</a><a href="/" class="brand-actu">Actu</a></h1>
+        <h2>{{ page.title }}</h2>
+      </div><!-- /.header-title-wrap -->
+    </div><!-- /.header-title -->
+  </div><!-- /.entry-header -->
 
-<div id="main" role="main">
-  {{ content }}
-</div><!-- /#main -->
+  <div id="main" role="main">
+    {{ content }}
+  </div><!-- /#main -->
 
-<div class="footer-wrapper">
-  <footer role="contentinfo">
-    {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrapper -->
+  <div class="footer-wrapper">
+    <footer role="contentinfo">
+      {% include footer.html %}
+    </footer>
+  </div><!-- /.footer-wrapper -->
 
-{% include scripts.html %}
+  {% include scripts.html %}
 
 </body>
 </html>

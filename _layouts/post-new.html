@@ -1,0 +1,82 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr"><!--<![endif]-->
+<head>
+{% include head.html %}
+</head>
+
+<!-- <body id="post-index" {% if page.image.feature %}class="feature"{% endif %}> -->
+<body id="post">
+
+  {% include browser-upgrade.html %}
+  {% include navigation.html %}
+
+  <div class="entry-header">
+    <!-- {% if page.image.credit %}<div class="image-credit">Source de l'image : <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div>{% endif %}
+    {% if page.image.feature %}
+      <div class="entry-image">
+        <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
+      </div>
+    {% endif %} -->
+    <div class="header-title">
+      <div class="header-title-wrap brand">
+        <h1><a href="/" class="brand-cayak">Cayak</a><a href="/" class="brand-actu">Actu</a></h1>
+        <!-- <h2>{{ page.title }}</h2> -->
+      </div>
+    </div>
+  </div>
+
+  <div id="main" role="main">
+    <article class="">
+      <header class="header-title">
+        <div class="header-title-wrap-post">
+          {% if page.link %}
+            <h1 class="entry-title"><i class="fa fa-bookmark permalink"></i> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+          {% else %}
+            <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+          {% endif %}
+          <h2><span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></span></h2>
+          {% if site.reading_time %}
+          <p class="entry-reading-time">
+            <i class="fa fa-clock-o"></i>
+            {% include read-time.html %}
+          </p>
+          {% endif %}
+        </div>
+    {% if page.image.feature %}
+      <div class="entry-image-index header-image-feature">
+        <a href="{{ site.url }}{{ page.url }}" title="{{ page.title }}"><img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}"></a>
+      </div>
+    {% endif %}
+      </header>
+
+      <div class="entry-content{% if page.image.feature %} post-feature{% endif %}">
+        {{ page.content }}
+        <footer class="entry-meta">
+          <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}" class="tag"><span class="term">{{ tag }}</span></a>{% unless forloop.last %}{% endunless %}{% endfor %}</span>
+          {% if page.modified %}<span>Mis à jour le <span class="entry-date date updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%d %B %Y" }}</time></span></span>
+          <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>{% endif %}
+          {% if page.share != false %}{% include social-share.html %}{% endif %}
+        </footer>
+      </div>
+
+      {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section>{% endif %}
+
+      {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
+
+    </article>
+
+  </div>
+
+  <div class="footer-wrapper">
+    <footer role="contentinfo">
+      {% include footer.html %}
+    </footer>
+  </div>
+
+  {% include scripts.html %}
+
+</body>
+</html>
