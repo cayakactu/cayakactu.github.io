@@ -6,6 +6,13 @@ tags: [cayak actu, media]
 comments: true
 ---
 
+
+{% capture images %}
+/images/posts/13324271_10153832408392961_1898465880_o.jpg
+{% endcapture %}
+{% include gallery images=images cols=1 %}
+
+
 # WE WANT YOU !
 
 Nous recherchons un(e) chargé(e) de reportages et d'enquêtes pendant 3 mois du 1 juin au 1 Septembre.
@@ -25,15 +32,10 @@ Nous recherchons un(e) chargé(e) de reportages et d'enquêtes pendant 3 mois du
     <input type="email" name="_replyto" placeholder="Votre adresse email" style="width:100%;border: 1px solid rgb(150, 150, 150);border-radius:5px;"/>
 <br/>
     <input type="hidden" name="_subject" value="Candidature Cayak Actu" />
-    <textarea type="text" name="name" placeholder="Votre lettre de motivation" style="width:100%;border: 1px solid rgb(150, 150, 150);border-radius:5px;"></textarea>
+    <textarea name="message" placeholder="Votre lettre de motivation" style="width:100%;border: 1px solid rgb(150, 150, 150);border-radius:5px;"></textarea>
 <br/>
     <input type="hidden" name="_next" value="//www.cayakactu.com/merci-candidature" />
     <input type="text" name="_gotcha" style="display:none" />
     <input class="btn btn-success" type="submit" value="Envoyer ma candidature">
 </form>
 </div>
-
-{% capture images %}
-/images/posts/13324271_10153832408392961_1898465880_o.jpg
-{% endcapture %}
-{% include gallery images=images cols=1 %}
