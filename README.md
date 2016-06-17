@@ -5,9 +5,9 @@ Site web cayak actu basé sur HPSTR Jekyll Theme
 ```
 bundle exec jekyll build --watch
 
-bundle exec jekyll serve
+bundle exec jekyll serve --watch
 ```
 
-Commentaires avec disqus
+Commentaires avec FB
 
 E-Commerce avec snipcart
