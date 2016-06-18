@@ -5,9 +5,12 @@ description: "Heureusement, Red bull donne des ailes"
 modified: 2016-06-17
 tags: [people, jeux olympiques]
 comments: true
-image:
-  feature: posts/13479441_10154029985575743_114818039_n.jpg
 ---
+
+{% capture images %}
+/images/posts/13479441_10154029985575743_114818039_n.jpg
+{% endcapture %}
+{% include gallery images=images cols=1 %}
 
 Suite à son échec lors des rattrapages continentaux, la mannequin autriChienne à la mâchoire de Schwarzy se défenestre. Bilan: de nombreuses fractures, mais une moelle épinière intacte.
 
