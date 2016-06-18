@@ -6,12 +6,17 @@ modified: 2016-06-17
 tags: [people, jeux olympiques]
 comments: true
 image:
-  feature: posts/13453163_10154027815840743_1171785248_o.jpg
+  feature: posts/13479441_10154029985575743_114818039_n.jpg
 ---
 
 Suite à son échec lors des rattrapages continentaux, la mannequin autriChienne à la mâchoire de Schwarzy se défenestre. Bilan: de nombreuses fractures, mais une moelle épinière intacte.
 
 ### Somnambulisme ou tentative inconsciente de participer aux jeux paralympiques après sa non sélection aux Jeux olympiques?
+
+{% capture images %}
+/images/posts/13461088_10154029990595743_356311024_o.jpg
+{% endcapture %}
+{% include gallery images=images cols=1 %}
 
 Interrogée par nos confrères de Sport Scene, le mag people du Cayak, la star a déclaré avoir fait le grand saut au détour d'un rêve:  
 
