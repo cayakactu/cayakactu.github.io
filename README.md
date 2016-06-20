@@ -8,6 +8,14 @@ bundle exec jekyll build --watch
 bundle exec jekyll serve --watch
 ```
 
+
 Commentaires avec FB
 
 E-Commerce avec snipcart
+
+Commmit
+
+
+```
+git add . && git commit -m "fix" && git push
+```
