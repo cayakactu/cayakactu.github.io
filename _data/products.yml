@@ -4,12 +4,12 @@
   sku: CSQ
   image: http://www.cayakactu.fr/images/shop/casquettes.png
 
-- name: Tatoo Cayak Actu
-  description: "Avec notre partenaire tatouagetemporaire.com"
-  price: 9.99
-  slug: tatoo-cayak-actu
-  sku: TTCA
-  image: http://www.cayakactu.fr/images/shop/tatoo-cayak-actu.jpg
+# - name: Tatoo Cayak Actu
+#   description: "Avec notre partenaire tatouagetemporaire.com"
+#   price: 9.99
+#   slug: tatoo-cayak-actu
+#   sku: TTCA
+#   image: http://www.cayakactu.fr/images/shop/tatoo-cayak-actu.jpg
 
 # - name: Tee shirt DTN
 #   price: 29.99
@@ -23,17 +23,17 @@
   sku: TSK4D
   image: http://www.cayakactu.fr/images/shop/teeshirt-k4d.jpg
 
+- name: Tee shirt Manon Hostens
+  price: 29.99
+  slug: teeshirt-manon-hostens
+  sku: TSST
+  image: http://www.cayakactu.fr/images/shop/teeshirt-manon-hostens.jpg
+
 - name: Tee shirt Léa Jamelot
   price: 29.99
   slug: teeshirt-lea-jamelot
   sku: TSLJ
   image: http://www.cayakactu.fr/images/shop/teeshirt-lea-jamelot.jpg
-
-- name: Tee shirt Sarah Troël
-  price: 29.99
-  slug: teeshirt-sarah-troel
-  sku: TSST
-  image: http://www.cayakactu.fr/images/shop/teeshirt-sarah-troel.jpg
 
 - name: Tee shirt Amandine Lhote
   price: 29.99
@@ -41,11 +41,13 @@
   sku: TSST
   image: http://www.cayakactu.fr/images/shop/teeshirt-amandine-lhote.jpg
 
-- name: Tee shirt Manon Hostens
+- name: Tee shirt Sarah Troël
   price: 29.99
-  slug: teeshirt-manon-hostens
+  slug: teeshirt-sarah-troel
   sku: TSST
-  image: http://www.cayakactu.fr/images/shop/teeshirt-manon-hostens.jpg
+  image: http://www.cayakactu.fr/images/shop/teeshirt-sarah-troel.jpg
+
+
 
 # - name: Tee shirt Adrien Bart
 #   price: 29.99
